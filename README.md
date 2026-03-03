@@ -9,7 +9,7 @@ eiya@m-ubuntu:~$ oonanji
 
 > Eiya Aoyama
 > Computer Vision AI & System Integration
-> [https://oonanji.com](https://oonanji.com)
+> https://oonanji.com/
 
 eiya@m-ubuntu:~$ _
 ```
